@@ -1,5 +1,5 @@
 # My favorite restaurant list
-![image](url)
+![image](https://github.com/Laylalll/restaurant_list/blob/main/public/images/screenshot.png)
 
 ## Introduction
 Save all my favorite restaurants here for checking restaurants' information and key in keyword to get target restaurants.
@@ -12,10 +12,8 @@ Save all my favorite restaurants here for checking restaurants' information and 
 ## Installation
 1. Install node.js, npm and nodemon.
 2. Clone project to local. 
-3. Open files and install npm with terminal. (type code below in terminal)
-```npm install```
-4. After finished installation, type code below in terminal.
-```npm run dev```
+3. Open files and install npm with terminal. (type code ```npm install``` in terminal)
+4. After finished installation, type code ```npm run dev``` in terminal.
 5. Seeing `Express is listening on http://localhost:3000` means it works. 
 6. Enter the web `http://localhost:3000`.
 7. Press `ctrl+C` to stop the server.
